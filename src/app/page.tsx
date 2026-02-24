@@ -7,7 +7,7 @@ const LIVESTOCK_TYPES = [
     id: 'poultry',
     title: 'Poultry',
     description: 'Expertly managed environments for layers and broilers, ensuring antibiotic-free growth and superior welfare.',
-    color: '<bg-orange-75 text-orange-600',
+    color: 'bg-orange-75 text-orange-600',
     icon: '🥚',
     image: 'https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?auto=format&fit=crop&q=80&w=1000'
   },
